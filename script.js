@@ -9,7 +9,7 @@
 			document.getElementById("oktal").value = parseInt(decimal).toString(8);
 
 			// Konversi ke heksadesimal
-			document.getElementById("hexadecimal").value = parseInt(decimal).toString(16);
+			document.getElementById("hexadesimal").value = parseInt(decimal).toString(16);
 		}
 
 		// Konversi biner ke bilangan lain
