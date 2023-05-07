@@ -34,7 +34,7 @@
 			document.getElementById("desimal").value = parseInt(oktal, 8);
 
 			// Konversi ke biner
-			document.getElementById("binary").value = parseInt(octal, 8).toString(2);
+			document.getElementById("binary").value = parseInt(oktal, 8).toString(2);
 
 			// Konversi ke heksadesimal
 			document.getElementById("hexadesimal").value = parseInt(oktal, 8).toString(16);
