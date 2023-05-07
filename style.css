@@ -26,9 +26,6 @@ h3 {
   color: #fff;
 }
 
-
-
-
 footer p {
   text-align: center;
   color: #b7b7b7;
@@ -40,10 +37,10 @@ footer a {
 }
 
 section {
-  padding:12px;
+  padding: 12px;
 }
 
 section a {
   text-decoration: none;
-  color:#5eee00;
+  color: #5eee00;
 }
