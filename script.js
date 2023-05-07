@@ -42,7 +42,7 @@
 
 		// Konversi heksadesimal ke bilangan lain
 		function convertHexadecimal() {
-			var hexadecimal = document.getElementById("hexadecimal").value;
+			let hexadecimal = document.getElementById("hexadecimal").value;
 
 			// Konversi ke desimal
 			document.getElementById("decimal").value = parseInt(hexadecimal, 16);
