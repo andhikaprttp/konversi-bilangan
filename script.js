@@ -28,7 +28,7 @@
 
 		// Konversi oktal ke bilangan lain
 		function convertOctal() {
-			let oktal = document.getElementById("octal").value;
+			let oktal = document.getElementById("oktal").value;
 
 			// Konversi ke desimal
 			document.getElementById("decimal").value = parseInt(octal, 8);
