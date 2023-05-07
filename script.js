@@ -3,7 +3,7 @@
 			let desimal = document.getElementById("desimal").value;
 
 			// Konversi ke biner
-			document.getElementById("biner").value = parseInt(decimal).toString(2);
+			document.getElementById("biner").value = parseInt(desimal).toString(2);
 
 			// Konversi ke oktal
 			document.getElementById("oktal").value = parseInt(decimal).toString(8);
