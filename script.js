@@ -51,5 +51,5 @@
 			document.getElementById("biner").value = parseInt(hexadesimal, 16).toString(2);
 
 			// Konversi ke oktal
-			document.getElementById("oktal").value = parseInt(hexadecimal, 16).toString(8);
+			document.getElementById("oktal").value = parseInt(hexadesimal, 16).toString(8);
 		}
