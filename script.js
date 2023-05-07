@@ -82,3 +82,5 @@ function convertHexadecimal() {
     8
   );
 }
+
+/* SMK RADEN PAKU */
