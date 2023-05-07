@@ -1,6 +1,6 @@
 		// Konversi desimal ke bilangan lain
 		function convertDecimal() {
-			var decimal = document.getElementById("desimal").value;
+			var desimal = document.getElementById("desimal").value;
 
 			// Konversi ke biner
 			document.getElementById("biner").value = parseInt(decimal).toString(2);
