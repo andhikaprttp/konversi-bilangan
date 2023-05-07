@@ -5,11 +5,12 @@
 		implementasi :
 		==============
 		Sistem Bilangan ada 4 yaitu Desimal , Biner , Hexadesimal dan Oktal.
-		==============
+		======================================
 		Desimal bilangan basis 10
 		Biner bilangan basis 2 ( 0 dan 1 )
 		Hexadesimal bilangan basis 16
 		Oktal bilangan basis 8
+		======================================
 		
 		
 		*/
