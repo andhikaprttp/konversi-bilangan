@@ -13,6 +13,7 @@ main {
 
 input {
   color:white;
+  border:none;
 }
 
 h1 {
