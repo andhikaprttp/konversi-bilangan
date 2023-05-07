@@ -1,3 +1,15 @@
+		/*
+		
+		Masalah : waktu untuk menghitung 
+		Solusi  : membuat otomasisasi perhitungan untuk konversi sistem bilangan 
+		implementasi :
+		==============
+		Sistem Bilangan
+		
+		
+		*/
+		
+		
 		// Konversi desimal ke bilangan lain
 		function convertDecimal() {
 			let desimal = document.getElementById("desimal").value;
