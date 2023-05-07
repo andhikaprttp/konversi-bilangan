@@ -12,8 +12,9 @@ main {
 }
 
 input {
-  color:white;
+  color:#000;
   border:none;
+  
 }
 
 h1 {
