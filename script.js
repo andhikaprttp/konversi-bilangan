@@ -48,8 +48,8 @@
 			document.getElementById("desimal").value = parseInt(hexadesimal, 16);
 
 			// Konversi ke biner
-			document.getElementById("biner").value = parseInt(hexadecimal, 16).toString(2);
+			document.getElementById("biner").value = parseInt(hexadesimal, 16).toString(2);
 
 			// Konversi ke oktal
-			document.getElementById("octal").value = parseInt(hexadecimal, 16).toString(8);
+			document.getElementById("oktal").value = parseInt(hexadecimal, 16).toString(8);
 		}
