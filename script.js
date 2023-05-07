@@ -45,7 +45,7 @@
 			let hexadecimal = document.getElementById("hexadecimal").value;
 
 			// Konversi ke desimal
-			document.getElementById("decimal").value = parseInt(hexadecimal, 16);
+			document.getElementById("decimal").value = parseInt(hexadesimal, 16);
 
 			// Konversi ke biner
 			document.getElementById("binary").value = parseInt(hexadecimal, 16).toString(2);
