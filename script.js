@@ -14,7 +14,7 @@
 
 		// Konversi biner ke bilangan lain
 		function convertBinary() {
-			let binary = document.getElementById("biner").value;
+			let biner = document.getElementById("biner").value;
 
 			// Konversi ke desimal
 			document.getElementById("decimal").value = parseInt(binary, 2);
