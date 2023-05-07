@@ -8,7 +8,7 @@
 		==============
 		Desimal bilangan basis 10
 		Biner bilangan basis 2 ( 0 dan 1 )
-		
+		Hexadesimal bilangan basis 16
 		
 		
 		*/
