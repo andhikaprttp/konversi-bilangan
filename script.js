@@ -6,7 +6,7 @@
 			document.getElementById("biner").value = parseInt(decimal).toString(2);
 
 			// Konversi ke oktal
-			document.getElementById("octal").value = parseInt(decimal).toString(8);
+			document.getElementById("oktal").value = parseInt(decimal).toString(8);
 
 			// Konversi ke heksadesimal
 			document.getElementById("hexadecimal").value = parseInt(decimal).toString(16);
