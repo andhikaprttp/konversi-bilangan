@@ -12,7 +12,7 @@
 		Hexadesimal bilangan basis 16
 		Oktal bilangan basis 8
 		======================================
-		
+		Membuat konverter sistem bilangan
 		
 		*/
 
