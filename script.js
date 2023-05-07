@@ -6,6 +6,7 @@
 		==============
 		Sistem Bilangan ada 4 yaitu Desimal , Biner , Hexadesimal dan Oktal.
 		==============
+		Desimal bilangan basis 10
 		
 		
 		*/
