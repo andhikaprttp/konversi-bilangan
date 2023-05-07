@@ -4,7 +4,7 @@
 		Solusi  : membuat otomasisasi perhitungan untuk konversi sistem bilangan 
 		implementasi :
 		==============
-		Sistem Bilangan ada 4 yaitu Desimal , Biner , Hexadesimal dan Oktal
+		Sistem Bilangan ada 4 yaitu Desimal , Biner , Hexadesimal dan Oktal.
 		
 		
 		*/
