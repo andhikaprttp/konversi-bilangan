@@ -12,10 +12,7 @@
 		Hexadesimal bilangan basis 16
 		Oktal bilangan basis 8
 		======================================
-		Membuat konverter sistem bilangan 
-                yaitu dengan mengambil data dari input pengguna menggunakan
-                atribut id dan menyimpan nya ke dalam variabel lalu di konversi 
-                
+		
 		
 		*/
 
@@ -82,5 +79,3 @@ function convertHexadecimal() {
     8
   );
 }
-
-/* SMK RADEN PAKU */
