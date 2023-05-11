@@ -12,7 +12,7 @@
 		Hexadesimal bilangan basis 16
 		Oktal bilangan basis 8
 		======================================
-		
+	
 		
 		*/
 
@@ -80,4 +80,4 @@ function convertHexadecimal() {
   );
 }
 
-// SMK RADEN PAKU
+// SMK RADEN PAKU 2023
