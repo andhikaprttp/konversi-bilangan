@@ -14,25 +14,26 @@ main {
 input {
   color: #000;
   border: none;
+  width: 100%; /* Membuat input merentang sejauh yang mungkin */
+  box-sizing: border-box; /* Menyertakan padding dan border dalam lebar input */
+  margin-bottom: 8px; /* Jarak antara input */
 }
 
-h1 {
+h1, h3 {
   text-align: center;
   color: #262626;
 }
 
 h3 {
-  text-align: center;
   color: #fff;
 }
 
-footer p {
+footer p, footer a {
   text-align: center;
   color: #000;
 }
 
 footer a {
-  text-align: center;
   text-decoration: none;
 }
 
@@ -43,6 +44,17 @@ section {
 section a {
   text-decoration: none;
   color: #5eee00;
-  margin:2px;
+  margin: 2px;
 }
 
+/* Media Query untuk tata letak responsif pada perangkat berbeda */
+@media only screen and (max-width: 600px) {
+  main {
+    margin: 0.5rem;
+    padding: 8px;
+  }
+
+  input {
+    margin-bottom: 6px;
+  }
+}
