@@ -1,4 +1,4 @@
-// Function untuk konversi desimal ke bilangan lain
+
 function convertDecimal() {
   let desimal = parseInt(document.getElementById("desimal").value, 10);
 
@@ -7,7 +7,7 @@ function convertDecimal() {
   document.getElementById("hexadesimal").value = desimal.toString(16);
 }
 
-// Function untuk konversi biner ke bilangan lain
+
 function convertBinary() {
   let biner = document.getElementById("biner").value;
 
@@ -16,7 +16,7 @@ function convertBinary() {
   document.getElementById("hexadesimal").value = parseInt(biner, 2).toString(16);
 }
 
-// Function untuk konversi oktal ke bilangan lain
+
 function convertOctal() {
   let oktal = document.getElementById("oktal").value;
 
@@ -32,5 +32,4 @@ function convertHexadecimal() {
   document.getElementById("desimal").value = parseInt(hexadesimal, 16);
   document.getElementById("biner").value = parseInt(hexadesimal, 16).toString(2);
   document.getElementById("oktal").value = parseInt(hexadesimal, 16).toString(8);
-						    }
-						    
+}
